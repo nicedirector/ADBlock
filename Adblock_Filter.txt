@@ -1529,3 +1529,10 @@ torrentwal.com##div#left_ad_1
 torrentwal.com##div#left_ad_2
 ||manamoa14.net/img/banner/
 ||img.ironmancdn.xyz/upload/
+
+! 2019. 9. 19. https://m.torrentwal.com
+m.torrentwal.com##table:nth-of-type(1) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > .button1
+m.torrentwal.com##table:nth-of-type(1) > tbody > tr:nth-of-type(1) > td:nth-of-type(2) > .button1
+m.torrentwal.com##table:nth-of-type(1) > tbody > tr:nth-of-type(1) > td:nth-of-type(3) > .button1
+m.torrentwal.com##table:nth-of-type(1) > tbody > tr:nth-of-type(2) > td:nth-of-type(1) > .button1
+m.torrentwal.com##table:nth-of-type(1) > tbody > tr:nth-of-type(2) > td:nth-of-type(2) > .button1
