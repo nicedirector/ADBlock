@@ -1,4 +1,4 @@
-﻿[Adblock Plus 2.0]
+﻿![Adblock Plus 2.0]
 ! Checksum: okfFSW4BdjwUeVQIDB+LEw
 ! [차단 필터]/blocking
 !
