@@ -1537,3 +1537,35 @@ m.torrentwal.com##table:nth-of-type(1) > tbody > tr:nth-of-type(1) > td:nth-of-t
 m.torrentwal.com##table:nth-of-type(1) > tbody > tr:nth-of-type(1) > td:nth-of-type(3) > .button1
 m.torrentwal.com##table:nth-of-type(1) > tbody > tr:nth-of-type(2) > td:nth-of-type(1) > .button1
 m.torrentwal.com##table:nth-of-type(1) > tbody > tr:nth-of-type(2) > td:nth-of-type(2) > .button1
+! 2021-01-10 https://torrentplay8.com
+||torrentplay*.com/img/banner*.gif$image
+
+! 2021-09-14 http://www.danawa.com
+www.danawa.com##.layer__ti__wrap
+www.danawa.com##.progress
+
+! 2022-06-05 https://www.filetender.com
+||i.uuoobe.com/images/$image
+
+! 2022-06-09 https://www.todawa69.top
+||www.todawa*.top/ad/$image
+
+! 2022-06-17 https://jack-tv.com
+||jack-tv.com/data/editor/$image
+
+! 2022-07-13 https://www.filetender.com
+||www.filetender.com/images/*.*$image
+
+! 2023-01-22 https://www.todawa4.asia
+||www.todawa*.asia/ad/*$image
+
+! 2023-04-02 https://www.todawa14.asia
+||i.uuoobe.com//ad/*$image
+
+https://appcdn01.xyz/*
+
+! 2023-05-29 https://v86.bozayo.net
+||*.bozayo.net/img/$image
+
+! 2023-10-12 https://www.todawa42.asia
+||i.keezip.com/images$image
